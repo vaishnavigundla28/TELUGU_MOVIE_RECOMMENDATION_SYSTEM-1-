@@ -1,5 +1,6 @@
 # TELUGU_MOVIE_RECOMMENDATION_SYSTEM-1-
 🎬 Telugu Movie Recommendation System
+
 📌 Project Overview
 
 The Telugu Movie Recommendation System is a content-based recommendation application developed using Python, Machine Learning, and Streamlit. The system helps users discover Telugu movies based on their preferred genre and number of recommendations.
